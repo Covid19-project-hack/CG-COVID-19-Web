@@ -30,7 +30,7 @@ $(document).ready(function(){
     $.ajax({
       'async': false,
       'global': false,
-      'url': "json/health_care.json",
+      'url': "json/health_cares.json",
       'dataType': "json",
       'success': function(data) {
         json = data;
@@ -47,6 +47,7 @@ listgrp.innerHTML+=
 <br>
 <p class="mb-1"><i class="fas fa-map-marker-alt" style="margin-right: 15px;"> </i>   ${element.district}</p>
 <p class="mb-1"><i class="fas fa-tag" style="margin-right: 15px;"> </i>   ${element.hospital}</p>
+
 </div>`;
 });   
 });

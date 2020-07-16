@@ -1,0 +1,884 @@
+{
+    "dch": [
+        {
+            "sno": "1",
+            "district": "AIIMS, Raipur",
+            "hospital": "Raipur",
+            "bed": "500"
+        },
+        {
+            "sno": "2",
+            "district": "Mana Hospital, Raipur",
+            "hospital": "Raipur",
+            "bed": "100"
+        },
+        {
+            "sno": "3",
+            "district": "Dr. BR Ambedkar Memorial Hospital Raipur",
+            "hospital": "Raipur",
+            "bed": "500"
+        },
+        {
+            "sno": "4",
+            "district": "Medical College Hospital, Ambikapur",
+            "hospital": "Ambikapur",
+            "bed": "100"
+        },
+        {
+            "sno": "5",
+            "district": "Medical College Hospital, Rajnandgaon",
+            "hospital": "Rajnandgaon",
+            "bed": "160"
+        },
+        {
+            "sno": "6",
+            "district": "Medical College Hospital, Jagdalpur",
+            "hospital": "Jagdalpur",
+            "bed": "200"
+        },
+        {
+            "sno": "7",
+            "district": "Medical College Hospital, Raigarh",
+            "hospital": "Raigarh",
+            "bed": "100"
+        },
+        {
+            "sno": "8",
+            "district": "District Hospital, Bilaspur",
+            "hospital": "Bilaspur",
+            "bed": "100"
+        }
+    ],
+    "dchc": [
+        {
+            "sno": "1",
+            "district": "MCH Hospital Baloda Bazar-Bhatapara",
+            "hospital": "Bhatapara",
+            "bed": "100"
+        },
+        {
+            "sno": "2",
+            "district": "MCH Hospital Surajpur",
+            "hospital": "Surajpur",
+            "bed": "100"
+        },
+        {
+            "sno": "3",
+            "district": "MCH Hospital Geedam, Dantewada*",
+            "hospital": "Dantewada",
+            "bed": "100"
+        },
+        {
+            "sno": "4",
+            "district": "ESIC Hospital, Korba*",
+            "hospital": "Korba",
+            "bed": "100"
+        },
+        {
+            "sno": "5",
+            "district": "District Hospital Balod",
+            "hospital": "Balod",
+            "bed": "100"
+        },
+        {
+            "sno": "6",
+            "district": "District Hospital Kondagaon",
+            "hospital": "Kondagaon",
+            "bed": "100"
+        },
+        {
+            "sno": "7",
+            "district": "College Building Kanker",
+            "hospital": "Kanker",
+            "bed": "100"
+        },
+        {
+            "sno": "8",
+            "district": "District Hospital Narayanpur",
+            "hospital": "Narayanpur",
+            "bed": "100"
+        },
+        {
+            "sno": "9",
+            "district": "MCH Mungeli",
+            "hospital": "Mungeli",
+            "bed": "60"
+        },
+        {
+            "sno": "10",
+            "district": "New Trauma Centre Janjgir Champa",
+            "hospital": "Janjgir Champa",
+            "bed": "50"
+        },
+        {
+            "sno": "11",
+            "district": "SECL Hospital,Baikunthpur  Koriya",
+            "hospital": "Baikunthpur  Koriya",
+            "bed": "50"
+        },
+        {
+            "sno": "12",
+            "district": "MCH Jashpur",
+            "hospital": "Jashpur",
+            "bed": "50"
+        },
+        {
+            "sno": "13",
+            "district": "Livelihood College Bijapur",
+            "hospital": "Bijapur",
+            "bed": "50"
+        },
+        {
+            "sno": "14",
+            "district": "MCH Sukma",
+            "hospital": "Sukma",
+            "bed": "40"
+        },
+        {
+            "sno": "15",
+            "district": "CHC Wadrafnagar, Balrampur",
+            "hospital": "Balrampur",
+            "bed": "30"
+        },
+        {
+            "sno": "16",
+            "district": "Livelihood Gariyaband",
+            "hospital": "Gariyaband",
+            "bed": "30"
+        },
+        {
+            "sno": "17",
+            "district": "Shri Shankaracharya Medical College\r\nHospital, Bhilai, Durg",
+            "hospital": "Durg",
+            "bed": "100"
+        },
+        {
+            "sno": "18",
+            "district": "Mission Hospital Dhamtari",
+            "hospital": "Dhamtari",
+            "bed": "100"
+        },
+        {
+            "sno": "19",
+            "district": "RLC Hospital Mahasamund",
+            "hospital": "Mahasamund",
+            "bed": "50"
+        },
+        {
+            "sno": "20",
+            "district": "Sai Sanjivani Hospital Kawardha",
+            "hospital": "Kawardha",
+            "bed": "50"
+        },
+        {
+            "sno": "21",
+            "district": "SRS Hospital Bemetara",
+            "hospital": "Bemetara",
+            "bed": "26"
+        },
+        {
+            "sno": "22",
+            "district": "ESIC, Hospital, Raipur",
+            "hospital": "Raipur",
+            "bed": "100"
+        }
+    ],
+    "ccc": [
+        {
+            "sno": "1",
+            "district": "Raipur",
+            "hospital": "Sports Hostel Near Science College",
+            "bed": "50"
+        },
+        {
+            "sno": "2",
+            "district": "Raipur",
+            "hospital": "Jainam Bhawan Near Airport",
+            "bed": "50"
+        },
+        {
+            "sno": "3",
+            "district": "Balodabazar",
+            "hospital": "Hotel Sagar",
+            "bed": "20"
+        },
+        {
+            "sno": "4",
+            "district": "Balodabazar",
+            "hospital": "Hotel Gaurav Pride",
+            "bed": "10"
+        },
+        {
+            "sno": "5",
+            "district": "Balodabazar",
+            "hospital": "Hotel Park Plaza",
+            "bed": "14"
+        },
+        {
+            "sno": "6",
+            "district": "Balodabazar",
+            "hospital": "Hotel Maruti Inn",
+            "bed": "17"
+        },
+        {
+            "sno": "7",
+            "district": "Balodabazar",
+            "hospital": "Tribal Hostel",
+            "bed": "50"
+        },
+        {
+            "sno": "8",
+            "district": "Gariyaband",
+            "hospital": "Aashray sthal (Rainbasera) Gariyaband",
+            "bed": "10"
+        },
+        {
+            "sno": "9",
+            "district": "Gariyaband",
+            "hospital": "Livelihood collage",
+            "bed": "30"
+        },
+        {
+            "sno": "10",
+            "district": "Dhamtari",
+            "hospital": "Livelihood College Rudri Dhamtari",
+            "bed": "25"
+        },
+        {
+            "sno": "11",
+            "district": "Dhamtari",
+            "hospital": "Collectorate Compisite Building",
+            "bed": "130"
+        },
+        {
+            "sno": "12",
+            "district": "Mahasamund",
+            "hospital": "Anandam Palace Mahasamund",
+            "bed": "34"
+        },
+        {
+            "sno": "13",
+            "district": "Mahasamund",
+            "hospital": "Shankrachary Bhawan Mahasamund",
+            "bed": "12"
+        },
+        {
+            "sno": "14",
+            "district": "Durg",
+            "hospital": "Agrawaal Bhawan, dhamdhanaka Durg",
+            "bed": "25"
+        },
+        {
+            "sno": "15",
+            "district": "Durg",
+            "hospital": "Hotel Abhinandan, Pulgaon Road, near Shivnath Bridge,\r\nDurg",
+            "bed": "25"
+        },
+        {
+            "sno": "16",
+            "district": "Durg",
+            "hospital": "Hotel Anand Mangalam, Pulgaon Road, near Shivnath\r\nBridge, Durg",
+            "bed": "35"
+        },
+        {
+            "sno": "17",
+            "district": "Balod",
+            "hospital": "Mahadev Bhawan Balod",
+            "bed": "250"
+        },
+        {
+            "sno": "18",
+            "district": "Balod",
+            "hospital": "Sahu Sadan Dallirajhara",
+            "bed": "50"
+        },
+        {
+            "sno": "19",
+            "district": "Balod",
+            "hospital": "Mangal Bhawan Dallirajhara",
+            "bed": "50"
+        },
+        {
+            "sno": "20",
+            "district": "Balod",
+            "hospital": "Jalaram Bhawan Dallirajhara",
+            "bed": "70"
+        },
+        {
+            "sno": "21",
+            "district": "Balod",
+            "hospital": "ITI Collage Gunderdehi",
+            "bed": "150"
+        },
+        {
+            "sno": "22",
+            "district": "Balod",
+            "hospital": "Samudaik Bhawan Gunderdehi",
+            "bed": "30"
+        },
+        {
+            "sno": "23",
+            "district": "Balod",
+            "hospital": "Samudaik Bhawan Gunderdehi",
+            "bed": "50"
+        },
+        {
+            "sno": "24",
+            "district": "Balod",
+            "hospital": "ITI Bhawan ( Collage & Hostel) Danora  Gurur",
+            "bed": "100"
+        },
+        {
+            "sno": "25",
+            "district": "Balod",
+            "hospital": "Samudaik Bhawan Gurur",
+            "bed": "50"
+        },
+        {
+            "sno": "26",
+            "district": "Balod",
+            "hospital": "ITI Bhawan ( Hostel) Dondi Lohara",
+            "bed": "50"
+        },
+        {
+            "sno": "27",
+            "district": "Bemetara",
+            "hospital": "Boys Hostel, Livelihood College,VILLAGE-Chorbhatti, Bemetara",
+            "bed": "15"
+        },
+        {
+            "sno": "28",
+            "district": "Rajnadgaon",
+            "hospital": "United Hospital Old Bus Stand  pvt Hospital Rajnandgaon",
+            "bed": "17"
+        },
+        {
+            "sno": "29",
+            "district": "Rajnadgaon",
+            "hospital": "Navoday Vidyalay dongargarh",
+            "bed": "40"
+        },
+        {
+            "sno": "30",
+            "district": "Rajnadgaon",
+            "hospital": "Eklavya chhatravas Pendri Rajnandgaon",
+            "bed": "90"
+        },
+        {
+            "sno": "31",
+            "district": "Rajnadgaon",
+            "hospital": "Parakh Nurshing Home",
+            "bed": "15"
+        },
+        {
+            "sno": "32",
+            "district": "Rajnadgaon",
+            "hospital": "Shri Ram Hospital Rajnandgan",
+            "bed": "10"
+        },
+        {
+            "sno": "33",
+            "district": "Rajnadgaon",
+            "hospital": "Jeevan Rekha Hospital",
+            "bed": "8"
+        },
+        {
+            "sno": "34",
+            "district": "Kawardha",
+            "hospital": "MAHARAJPUR AASHRAM,KAWARDHA(7 KM AWAY\r\nFROM ECTC)",
+            "bed": "50"
+        },
+        {
+            "sno": "35",
+            "district": "Kawardha",
+            "hospital": "FISHERIES COLLEGE KAWARDHA (5 KM AWAY FROM ECTC )",
+            "bed": "50"
+        },
+        {
+            "sno": "36",
+            "district": "Bilaspur",
+            "hospital": "Mahadev Hospital",
+            "bed": "100"
+        },
+        {
+            "sno": "37",
+            "district": "Bilaspur",
+            "hospital": "Prayas Hostel",
+            "bed": "80"
+        },
+        {
+            "sno": "38",
+            "district": "Bilaspur",
+            "hospital": "Kedia Dharmshala",
+            "bed": "25"
+        },
+        {
+            "sno": "39",
+            "district": "Bilaspur",
+            "hospital": "Chitrakut Hostel Pt. Sunder Lal Sharma",
+            "bed": "104"
+        },
+        {
+            "sno": "40",
+            "district": "Bilaspur",
+            "hospital": "Govt Mahamaya College Ratanpur",
+            "bed": "16"
+        },
+        {
+            "sno": "41",
+            "district": "Bilaspur",
+            "hospital": "Kasturba Gandhi Awasiya Vidyalay, Jareli",
+            "bed": "48"
+        },
+        {
+            "sno": "42",
+            "district": "Bilaspur",
+            "hospital": "Mahamaya Mangal Bhawan Gobripat",
+            "bed": "12"
+        },
+        {
+            "sno": "43",
+            "district": "Bilaspur",
+            "hospital": "Agriculture Hostel",
+            "bed": "45"
+        },
+        {
+            "sno": "44",
+            "district": "Bilaspur",
+            "hospital": "Agriculture Hostel",
+            "bed": "24"
+        },
+        {
+            "sno": "45",
+            "district": "Bilaspur",
+            "hospital": "Agriculture Hostel",
+            "bed": "80"
+        },
+        {
+            "sno": "46",
+            "district": "Bilaspur",
+            "hospital": "Agriculture Hostel",
+            "bed": "40"
+        },
+        {
+            "sno": "47",
+            "district": "Bilaspur",
+            "hospital": "Agriculture Hostel",
+            "bed": "40"
+        },
+        {
+            "sno": "48",
+            "district": "Mungeli",
+            "hospital": "HOTEL PUNEET MUNGELI",
+            "bed": "14"
+        },
+        {
+            "sno": "49",
+            "district": "Janjgir Champa",
+            "hospital": "Aakancha aawasiya parisar",
+            "bed": "100"
+        },
+        {
+            "sno": "50",
+            "district": "Raigarh",
+            "hospital": "Pre Metric Girls Hostel Baramkela",
+            "bed": "28"
+        },
+        {
+            "sno": "51",
+            "district": "Raigarh",
+            "hospital": "Sanskriti Bhawan Saria",
+            "bed": "15"
+        },
+        {
+            "sno": "52",
+            "district": "Raigarh",
+            "hospital": "Hotel Shree Om Saranggarh",
+            "bed": "21"
+        },
+        {
+            "sno": "53",
+            "district": "Raigarh",
+            "hospital": "Rain Basera Saranggarh",
+            "bed": "50"
+        },
+        {
+            "sno": "54",
+            "district": "Raigarh",
+            "hospital": "Boys Hostel Pusour",
+            "bed": "4"
+        },
+        {
+            "sno": "55",
+            "district": "Raigarh",
+            "hospital": "Girls Hostel Pusour",
+            "bed": "4"
+        },
+        {
+            "sno": "56",
+            "district": "Raigarh",
+            "hospital": "Rambagh Marriage Garden Raigarh",
+            "bed": "23"
+        },
+        {
+            "sno": "57",
+            "district": "Raigarh",
+            "hospital": "Eden Garden Marriage Hall Raigarh",
+            "bed": "17"
+        },
+        {
+            "sno": "58",
+            "district": "Raigarh",
+            "hospital": "Pre Metric Boys Hostel Thakurdiya, Kharasiya",
+            "bed": "15"
+        },
+        {
+            "sno": "59",
+            "district": "Raigarh",
+            "hospital": "Post Metric Girls Hostel Tamnaar",
+            "bed": "54"
+        },
+        {
+            "sno": "60",
+            "district": "Raigarh",
+            "hospital": "Pre Metric Boys Hostel Ghargora",
+            "bed": "100"
+        },
+        {
+            "sno": "61",
+            "district": "Raigarh",
+            "hospital": "Utkal Brahmin Dharmashala, Gharghora",
+            "bed": "20"
+        },
+        {
+            "sno": "62",
+            "district": "Raigarh",
+            "hospital": "Sanskriti Bhawan Ward No-4, Lailunga",
+            "bed": "6"
+        },
+        {
+            "sno": "63",
+            "district": "Raigarh",
+            "hospital": "Mangal Bhavan Ward No-4, Lailunga",
+            "bed": "15"
+        },
+        {
+            "sno": "64",
+            "district": "Raigarh",
+            "hospital": "Boys Hostel Ward No-4, Lailunga",
+            "bed": "40"
+        },
+        {
+            "sno": "65",
+            "district": "Raigarh",
+            "hospital": "Gurukul Dayanand vaidic adivasi balak Ashram, Salkhiya,\r\nLailunga",
+            "bed": "80"
+        },
+        {
+            "sno": "66",
+            "district": "Raigarh",
+            "hospital": "Birhor Ashram, Dharamjaigarh",
+            "bed": "100"
+        },
+        {
+            "sno": "67",
+            "district": "Raigarh",
+            "hospital": "Ursooline English Medium School, Dharamjaigarh",
+            "bed": "40"
+        },
+        {
+            "sno": "68",
+            "district": "Raigarh",
+            "hospital": "Mangal Bhavan, Dharamjaigarh",
+            "bed": "30"
+        },
+        {
+            "sno": "69",
+            "district": "Raigarh",
+            "hospital": "Krada Parishar, Dharamjaigarh",
+            "bed": "200"
+        },
+        {
+            "sno": "70",
+            "district": "Raigarh",
+            "hospital": "Boys Hostel, Dharamjaigarh",
+            "bed": "50"
+        },
+        {
+            "sno": "71",
+            "district": "Surajpur",
+            "hospital": "Livelihood College Surajpur",
+            "bed": "125"
+        },
+        {
+            "sno": "72",
+            "district": "Balrampur",
+            "hospital": "GAD QUARTERS BHELWADIH",
+            "bed": "40"
+        },
+        {
+            "sno": "73",
+            "district": "Koriya",
+            "hospital": "ANM training centre,  Baikunthpur",
+            "bed": "50"
+        },
+        {
+            "sno": "74",
+            "district": "Jashpur",
+            "hospital": "DPRC Jashpur",
+            "bed": "15"
+        },
+        {
+            "sno": "75",
+            "district": "Jashpur",
+            "hospital": "Hotel Rajshree",
+            "bed": "25"
+        },
+        {
+            "sno": "76",
+            "district": "Jagdalpur",
+            "hospital": "Post Matric Boys Hostel Behind PG College, Jagdalpur",
+            "bed": "200"
+        },
+        {
+            "sno": "77",
+            "district": "Dantewada",
+            "hospital": "NRC Dantewada",
+            "bed": "21"
+        },
+        {
+            "sno": "78",
+            "district": "Sukma",
+            "hospital": "Old Rest House Sukma",
+            "bed": "7"
+        },
+        {
+            "sno": "79",
+            "district": "Sukma",
+            "hospital": "New Circuit House Sukma",
+            "bed": "11"
+        },
+        {
+            "sno": "80",
+            "district": "Sukma",
+            "hospital": "Forest Rest House Sukma",
+            "bed": "2"
+        },
+        {
+            "sno": "81",
+            "district": "Bijapur",
+            "hospital": "Hotel G.R.Palace, Main Road Bijapur",
+            "bed": "15"
+        },
+        {
+            "sno": "82",
+            "district": "Kondagaon",
+            "hospital": "Hotel Mohan Palace (1phase)",
+            "bed": "12"
+        },
+        {
+            "sno": "83",
+            "district": "Kondagaon",
+            "hospital": "Guru Louge (1phase)",
+            "bed": "18"
+        },
+        {
+            "sno": "84",
+            "district": "Kondagaon",
+            "hospital": "Sai palace (1phase)",
+            "bed": "12"
+        },
+        {
+            "sno": "85",
+            "district": "Kondagaon",
+            "hospital": "Housing Board F type  (1phase)",
+            "bed": "36"
+        },
+        {
+            "sno": "86",
+            "district": "Kondagaon",
+            "hospital": "Housing Baord 1bhk (1phase)",
+            "bed": "40"
+        },
+        {
+            "sno": "87",
+            "district": "Kondagaon",
+            "hospital": "Housing Baord 2bhk(1phase)",
+            "bed": "72"
+        },
+        {
+            "sno": "88",
+            "district": "Kondagaon",
+            "hospital": "Government boys hostel (2nd Phase)",
+            "bed": "100"
+        },
+        {
+            "sno": "89",
+            "district": "Kondagaon",
+            "hospital": "Government girls Hostel (2nd Phase)",
+            "bed": "50"
+        },
+        {
+            "sno": "90",
+            "district": "Kondagaon",
+            "hospital": "Post Matrik Boys Hostel (2nd Phase)",
+            "bed": "100"
+        },
+        {
+            "sno": "91",
+            "district": "Kondagaon",
+            "hospital": "Archachepda (3rd Phase)",
+            "bed": "50"
+        },
+        {
+            "sno": "92",
+            "district": "Kondagaon",
+            "hospital": "Post Matrik Girls Hostel Collectorate (3rd Phase)",
+            "bed": "30"
+        },
+        {
+            "sno": "93",
+            "district": "Kondagaon",
+            "hospital": "RMSA Collectorste Hostel(3rd phase)",
+            "bed": "100"
+        },
+        {
+            "sno": "94",
+            "district": "Kanker",
+            "hospital": "AADRASH MAHILA MAHA VIDLAYA ALBELA PARA\r\nKANKER",
+            "bed": "200"
+        },
+        {
+            "sno": "95",
+            "district": "Kanker",
+            "hospital": "Govt. Boys Hostel kanker",
+            "bed": "50"
+        },
+        {
+            "sno": "96",
+            "district": "Kanker",
+            "hospital": "Govt. Girls Hostel kanker",
+            "bed": "50"
+        },
+        {
+            "sno": "97",
+            "district": "Kanker",
+            "hospital": "Baalak Ashram Sirsida Charama Kanker",
+            "bed": "50"
+        },
+        {
+            "sno": "98",
+            "district": "Kanker",
+            "hospital": "Kausal Viskas Traning Center Durgukondal",
+            "bed": "50"
+        },
+        {
+            "sno": "99",
+            "district": "Kanker",
+            "hospital": "Khusi Lodge Pakhanjure",
+            "bed": "3"
+        },
+        {
+            "sno": "100",
+            "district": "Kanker",
+            "hospital": "Gandhi Lodge Pakhanjure",
+            "bed": "9"
+        },
+        {
+            "sno": "101",
+            "district": "Kanker",
+            "hospital": "Bhawal Lodge Pakhanjure",
+            "bed": "13"
+        },
+        {
+            "sno": "102",
+            "district": "Kanker",
+            "hospital": "Shankar Lodge Pakhanjure",
+            "bed": "6"
+        },
+        {
+            "sno": "103",
+            "district": "Kanker",
+            "hospital": "Varsha Lodge Pakhanjure",
+            "bed": "4"
+        },
+        {
+            "sno": "104",
+            "district": "Kanker",
+            "hospital": "Ashirvad Lodge Pakhanjure",
+            "bed": "12"
+        },
+        {
+            "sno": "105",
+            "district": "Kanker",
+            "hospital": "Netaji Lodge Pakhanjure",
+            "bed": "3"
+        },
+        {
+            "sno": "106",
+            "district": "Narayanpur",
+            "hospital": "GNM Training centre narayanpur",
+            "bed": "20"
+        },
+        {
+            "sno": "107",
+            "district": "Surguja",
+            "hospital": "Agrsen Sewa Sadan Ambikapur",
+            "bed": "50"
+        },
+        {
+            "sno": "108",
+            "district": "Surguja",
+            "hospital": "Old CHC Buliding  Udaipur",
+            "bed": "20"
+        },
+        {
+            "sno": "109",
+            "district": "Korba",
+            "hospital": "ERECTOR HOSTEL",
+            "bed": "10"
+        },
+        {
+            "sno": "110",
+            "district": "Korba",
+            "hospital": "EKLAVYA",
+            "bed": "200"
+        },
+        {
+            "sno": "111",
+            "district": "Korba",
+            "hospital": "IT COLLEGE JHAGARHA",
+            "bed": "40"
+        },
+        {
+            "sno": "112",
+            "district": "Korba",
+            "hospital": "MINIMATA COLLEGE GIRLS HOSTEL",
+            "bed": "60"
+        },
+        {
+            "sno": "113",
+            "district": "Korba",
+            "hospital": "CTI GEVRA",
+            "bed": "52"
+        },
+        {
+            "sno": "114",
+            "district": "Raipur",
+            "hospital": "Regional Leprosy Training and Reserch Institute Lalpur",
+            "bed": "100"
+        },
+        {
+            "sno": "115",
+            "district": "Raipur",
+            "hospital": "Aarurvedic Hospital Raipur",
+            "bed": "60"
+        },
+        {
+            "sno": "116",
+            "district": "Raipur",
+            "hospital": "Sport Complex Science College Raipur",
+            "bed": "50"
+        }
+    ]
+}
